@@ -31,7 +31,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'WebAssembly Guide',
-      items: ['WebAssembly/Introduction', 'WebAssembly/Rust', 'WebAssembly/C++', 'WebAssembly/C', 'WebAssembly/Golang', 'WebAssembly/AssemblyScript', 'WebAssembly/Grain', 'WebAssembly/Zig', 'WebAssembly/JavaScript'],
+      items: ['WebAssembly/Introduction', 'WebAssembly/Rust', 'WebAssembly/C++', 'WebAssembly/C', 'WebAssembly/Golang', 'WebAssembly/Ruby', 'WebAssembly/dotnet', 'WebAssembly/TypeScript', 'WebAssembly/AssemblyScript', 'WebAssembly/Grain', 'WebAssembly/Zig', 'WebAssembly/JavaScript'],
     },
     {
       type: 'category',
@@ -47,6 +47,11 @@ const sidebars = {
       type: 'category',
       label: 'Fellowship Guide',
       items: ['Fellowship/Introduction','Fellowship/Audience','Fellowship/Benefits','Fellowship/Partners','Fellowship/Initiatives','Fellowship/Ideas','Fellowship/Schedule','Fellowship/Conclusion'],
+    },
+    {
+      type: 'category',
+      label: 'Enarx Repo Guide',
+      items: ['Repo/Introduction','Repo/enarx','Repo/sallyport','Repo/ctr0stack','Repo/vsdo','Repo/rct1','Repo/xsave','Repo/flagset','Repo/sgx','Repo/mmarinus','Repo/iocuddle','Repo/noted','Repo/lset','Repo/nbytes','Repo/uabs','Repo/signrel','Repo/linux','Repo/spdx'],
     },
     {
       type: 'category',
